@@ -1,0 +1,32 @@
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+  #landing-row-background{
+    visibility: visible;
+  }
+  #landing-logo-img{
+    margin-bottom:0;
+  }
+  #landing-row{
+    padding-top:50%;
+  }
+
+  .about-us-logo{
+    padding-right: 20px;
+    margin-bottom: 0;
+  }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}

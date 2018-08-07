@@ -1,0 +1,11 @@
+#gallery{
+  padding:50px;
+  width:100vw;
+  overflow: hidden;
+    background-color: rgba(0,0,0,0.8);
+}
+
+#gallery-header-container{
+  border-bottom:2px solid whitesmoke;
+  margin-bottom:20px;
+}

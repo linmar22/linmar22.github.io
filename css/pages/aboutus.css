@@ -1,0 +1,35 @@
+#about-us{
+  background-color: rgba(0,0,0,0.8);
+  /*height:100vh;*/
+  padding:50px;
+  width:100vw;
+  overflow: hidden;
+}
+
+#about-us-header-container{
+  border-bottom:2px solid whitesmoke;
+  margin-bottom:20px;
+}
+
+.about-us-row{
+  margin-bottom:20px;
+}
+
+.about-us-logo-container{
+  text-align: center;
+}
+
+.about-us-logo{
+  width:100%;
+  max-width: 300px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.about-us-description-container{
+  border-left: 2px solid whitesmoke;
+}
+
+.about-us-paragraph{
+  text-align: justify;
+}
